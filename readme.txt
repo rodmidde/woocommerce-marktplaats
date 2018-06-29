@@ -11,6 +11,6 @@ Publish your Woocommerce products to Marktplaats.
 
 == Description ==
 
-Marktplaats WooCommerce is a WordPress plugin that publishes WooCommerce products to [Marktplaats](http://www.marktplaats.nl), the biggest Dutch online platform for selling and buying (second hand) products. It depends on the [GoedGeplaatst](https://www.goedgeplaatst.nl/) API.
+Marktplaats WooCommerce is a WordPress plugin that publishes WooCommerce products to Marktplaats (http://www.marktplaats.nl), the biggest Dutch online platform for selling and buying (second hand) products. It depends on the GoedGeplaatst (https://www.goedgeplaatst.nl/) API.
 
 = Features =
